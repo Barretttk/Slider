@@ -19,9 +19,12 @@ ___
 
 <h2 align="center"> 
   Thank you for stopping by my Slider Project
+  <br>
   ___
   </h2>
   
     Jackel Development has begun.....
+    
+    <img src="https://ibb.co/swGcGgr" alt="">
 
 
