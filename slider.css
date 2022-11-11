@@ -26,6 +26,12 @@ body{
     text-transform: capitalize;
 }
 
+.line {
+    background-color: black;
+    width: 100%;
+    height: 1px;
+}
+
 .top{
     display: flex;
     align-items: center;
