@@ -19,4 +19,9 @@ ___
 
 <h2 align="center"> 
   Thank you for stopping by my Slider Project
-</h2>
+  ___
+  </h2>
+  
+    Jackel Development has begun.....
+
+
