@@ -58,7 +58,6 @@ const getLastSlide = () => {
 // second click is 1600 = 800*2
 // third click is 2400 = 800*3
 // forth click is 3200 = 800*4
-
 const colorChange = () => {
     resetButton();
     buttons [slideNumber -1].style.backgroundColor = "black";
